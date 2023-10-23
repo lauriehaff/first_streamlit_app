@@ -1,1 +1,4 @@
-print ("hello world")
+import streamlit
+
+streamlit.title ("This is my first app without paillettes")
+
